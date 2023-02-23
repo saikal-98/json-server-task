@@ -1,4 +1,4 @@
-let API = "http://localhost:8002/contactbook";
+let API = "http://localhost:8000/contactbook";
 
 let name = document.querySelector("#inp-name");
 let surname = document.querySelector("#inp-surname");
